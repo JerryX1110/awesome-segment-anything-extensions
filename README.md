@@ -1,7 +1,18 @@
-# awesome-segment-anything-extensions
+#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Segment-anything related awesome extensions/projects/repos/applications.
 
-## Recent research
+Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
+
+```diff
+- 2023.4.9: Recent works/projects (from 2023) 
+- welcome to add if any information misses. 😎
+```
+
+---
+
+
+## Recent Works
 - Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything)
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
