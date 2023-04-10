@@ -37,6 +37,10 @@ The repository provides code for running inference with the SegmentAnything Mode
  
 ![image](https://user-images.githubusercontent.com/65257938/230820035-216af991-6cf5-4207-9a25-40e7564a3cd1.png)
 
+- EditAnything (SAM for image generation) [Repo](https://github.com/sail-sg/EditAnything)
+
+![image](https://user-images.githubusercontent.com/65257938/230915204-70634971-e6cf-4a7c-88f7-388265e9cf3b.png)
+
 
 - Prompt-Segment-Anything (use SAM for instance segmentation) [Repo](https://github.com/RockeyCoss/Prompt-Segment-Anything)
  
