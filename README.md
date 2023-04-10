@@ -63,4 +63,8 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230872776-454f7d84-995f-45b3-9586-315199c8aa72.png)
 
+- Annotation-anything-pipeline (GPT+SAM) [Repo](https://github.com/Yuqifan1117/Annotation-anything-pipeline)
+![image](https://user-images.githubusercontent.com/65257938/230908343-be5840bc-d824-4cbd-b881-9842e2d23844.png)
+
+- MOTSAM (MOT+SAM->MOTS)[Repo](https://github.com/BingfengYan/MOTSAM)
 
