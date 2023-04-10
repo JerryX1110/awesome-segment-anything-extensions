@@ -55,4 +55,12 @@ The repository provides code for running inference with the SegmentAnything Mode
 - Segment-anything-with-image-captioning(sam + image caption) [Repo](https://github.com/bnabis93/segment-anything-image-search)
 
 
+- Open-vocabulary-Segment-Anything (OWL-ViT of Google + Segment Anything of Meta) [Repo](https://github.com/ngthanhtin/owlvit_segment_anything)
+
+![image](https://user-images.githubusercontent.com/65257938/230872515-7ea34489-2422-4bcf-aa05-1dd6adbb420c.png)
+
+- semantic drawing with Segment Anything Model (SAM for mask drawing/editing) [Repo](https://github.com/lujiazho/SegDrawer)
+
+![image](https://user-images.githubusercontent.com/65257938/230872776-454f7d84-995f-45b3-9586-315199c8aa72.png)
+
 
