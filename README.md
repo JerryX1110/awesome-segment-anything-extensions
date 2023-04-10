@@ -23,6 +23,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
+- GroundedSAM-zero-shot-anomaly-detection (SAM + anomaly detection)[Repo](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
+
+![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
+
 
 - segment-anything-with-clip (SAM + CLIP) [Repo](https://github.com/Curt-Park/segment-anything-with-clip)
  
