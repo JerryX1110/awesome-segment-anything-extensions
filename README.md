@@ -3,7 +3,9 @@ Segment-anything related awesome extensions/projects/repos/applications.
 
 ## Recent research
 - Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything)
+
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
 - Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything)
