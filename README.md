@@ -27,6 +27,9 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
+- Image Editing Anything (SAM + CLIP +StableDiffusion) [Repo](https://github.com/feizc/IEA)
+![image](https://user-images.githubusercontent.com/65257938/231331898-cfac7986-1638-4059-8bb5-56227256b0a6.png)
+
 
 - segment-anything-with-clip (SAM + CLIP) [Repo](https://github.com/Curt-Park/segment-anything-with-clip)
  
@@ -74,3 +77,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 - SAMCOD (SAM for Camouflaged Object Detection) [Paper](https://arxiv.org/abs/2304.04709) [Repo](https://github.com/luckybird1994/SAMCOD)
 
+- Segment Anything Model (SAM) in Napari (SAM + Napari) [Repo](https://github.com/MIC-DKFZ/napari-sam)
+
+![image](https://user-images.githubusercontent.com/65257938/231332215-abacbf73-f2af-4ec9-a36f-0d6d973406ee.png)
+
+- inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/231332320-d8d43a47-e416-404a-bab9-a4bfc7bf82f3.png)
