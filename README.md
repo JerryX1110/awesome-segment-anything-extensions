@@ -72,3 +72,5 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 - MOTSAM (MOT+SAM->MOTS)[Repo](https://github.com/BingfengYan/MOTSAM)
 
+- SAMCOD (SAM for Camouflaged Object Detection) [Paper](https://arxiv.org/abs/2304.04709) [Repo](https://github.com/luckybird1994/SAMCOD)
+
