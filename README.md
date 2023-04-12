@@ -117,9 +117,29 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ## Relevant Repos
 
-- Towards Segmenting Anything That Moves [Repo]
+- Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
 
 ![image](https://user-images.githubusercontent.com/65257938/231467307-93900825-e436-4847-a16f-8fc6d692666e.png)
+
+- SegGPT: Segmenting Everything In Context [Repo](https://github.com/baaivision/Painter)
+
+![image](https://user-images.githubusercontent.com/65257938/231467850-cae7c7cd-21b6-49df-8c5d-fddd405f24ea.png)
+
+- Painter [Repo](https://github.com/baaivision/Painter)
+
+![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
+
+
+- Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion)
+
+![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
+
+- ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) [Repo](https://github.com/lllyasviel/ControlNet) [Paper](https://arxiv.org/abs/2302.05543)
+
+![image](https://user-images.githubusercontent.com/65257938/231468301-ca80309b-1c01-474b-9631-c8297784d611.png)
+
+
+
 
 
 
