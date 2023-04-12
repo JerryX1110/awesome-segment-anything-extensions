@@ -1,4 +1,5 @@
-#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
+
 
 Segment-anything related awesome extensions/projects/repos/applications.
 
