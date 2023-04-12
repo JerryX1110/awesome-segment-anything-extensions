@@ -107,3 +107,8 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
+- AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling)
+
+![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
+
+
