@@ -90,3 +90,22 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231332320-d8d43a47-e416-404a-bab9-a4bfc7bf82f3.png)
 
+- segment-anything-eo (Earth observation tools for Meta AI Segment Anything) [Repo](https://github.com/aliaksandr960/segment-anything-eo)
+
+![image](https://user-images.githubusercontent.com/65257938/231364402-c98bd73f-5d95-4d46-8904-7a92d24c297c.png)
+
+- Segment Anything for Stable Diffusion Webui (helping stable diffusion webui users to use segment anything to do stable diffusion inpainting) [Repo]()
+
+![image](https://user-images.githubusercontent.com/65257938/231364701-54314d6b-2a93-4485-a266-9ccb20247839.png)
+
+- Napari plugin of Segment Anything Model (SAM) [Repo] (https://github.com/JoOkuma/napari-segment-anything)
+
+![image](https://user-images.githubusercontent.com/65257938/231364852-7af40363-e733-4bc6-9c42-e7411e105702.png)
+
+- segment-anything-and-name-it (Visual GPT + SAM) [Repo](https://github.com/Cheems-Seminar/segment-anything-and-name-it)
+
+![image](https://user-images.githubusercontent.com/65257938/231365155-2e97dd7e-d63f-4b94-a048-7a14377e08a3.png)
+
+
+
+
