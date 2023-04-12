@@ -104,8 +104,5 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 - segment-anything-and-name-it (Visual GPT + SAM) [Repo](https://github.com/Cheems-Seminar/segment-anything-and-name-it)
 
-![image](https://user-images.githubusercontent.com/65257938/231365155-2e97dd7e-d63f-4b94-a048-7a14377e08a3.png)
-
-
-
+![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
