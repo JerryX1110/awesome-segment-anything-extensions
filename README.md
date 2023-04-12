@@ -115,6 +115,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231440778-d1ae3cf3-a0ba-448c-adfe-a6fa1648ee20.png)
 
+- Segment-anything-u-specify (using sam + clip to segment anything u specify) [Repo](https://github.com/MaybeShewill-CV/segment-anything-u-specify)
+
+![image](https://user-images.githubusercontent.com/65257938/231503241-989932a2-0d9a-4d5c-9f0f-e376c4142f04.png)
+
+
 ## Relevant Repos
 
 - Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
