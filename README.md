@@ -28,7 +28,12 @@ The repository provides code for running inference with the SegmentAnything Mode
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
 - Image Editing Anything (SAM + CLIP +StableDiffusion) [Repo](https://github.com/feizc/IEA)
+
 ![image](https://user-images.githubusercontent.com/65257938/231331898-cfac7986-1638-4059-8bb5-56227256b0a6.png)
+
+- Semantic Segment Anything (SAM for semantic seg) [Repo](https://github.com/fudan-zvg/Semantic-Segment-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/231338058-34f36f1d-4aad-404d-8c0c-13a5de3b14c0.png)
 
 
 - segment-anything-with-clip (SAM + CLIP) [Repo](https://github.com/Curt-Park/segment-anything-with-clip)
@@ -84,3 +89,4 @@ The repository provides code for running inference with the SegmentAnything Mode
 - inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything)
 
 ![image](https://user-images.githubusercontent.com/65257938/231332320-d8d43a47-e416-404a-bab9-a4bfc7bf82f3.png)
+
