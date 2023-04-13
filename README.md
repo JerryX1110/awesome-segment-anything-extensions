@@ -136,6 +136,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 ![image](https://user-images.githubusercontent.com/65257938/231627733-cc0787ec-d64b-46a2-b2d1-19b6c2c196e9.png)
 
 
+- SAM Medical Imaging [Repo](https://github.com/amine0110/SAM-Medical-Imaging)
+
+![image](https://user-images.githubusercontent.com/65257938/231628357-e004ee33-32a0-4f4b-9ec4-63a2bc3a6ea5.png)
+
+
 ## Relevant Repos
 
 - Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
