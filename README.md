@@ -144,6 +144,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231687136-b4a393ff-c5e1-4812-9296-7d7aa656283e.png)
 
+- Transform Image Into Unique Paragraph (ChatGPT+SAM+BLIP) [Repo](https://github.com/showlab/Image2Paragraph)
+
+![image](https://user-images.githubusercontent.com/65257938/231750419-7194770c-30a2-417d-8467-3901c8a8f3e0.png)
+
 
 ## Relevant Repos
 
