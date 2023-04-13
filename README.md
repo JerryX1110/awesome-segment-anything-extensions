@@ -20,6 +20,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
+- Roboflow Annotate Smart Polygon is a free, automated image annotation tool powered by Segment-Anything [Blog](https://blog.roboflow.com/label-data-segment-anything-model-sam/), [App](https://app.roboflow.com)
+
+https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82a4-9b2a91b02d0a.mp4
+
 - Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything)
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
