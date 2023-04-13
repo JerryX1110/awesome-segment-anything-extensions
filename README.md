@@ -140,6 +140,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231628357-e004ee33-32a0-4f4b-9ec4-63a2bc3a6ea5.png)
 
+- Segment Anything Prompt (SAM + GroundDINO + Stable Diffusion for foreground removal and background inpainting) [Repo](https://github.com/jinfagang/SegAnythingPro)
+
+![image](https://user-images.githubusercontent.com/65257938/231687136-b4a393ff-c5e1-4812-9296-7d7aa656283e.png)
+
 
 ## Relevant Repos
 
