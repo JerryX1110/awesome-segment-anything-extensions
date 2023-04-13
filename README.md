@@ -119,6 +119,22 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231503241-989932a2-0d9a-4d5c-9f0f-e376c4142f04.png)
 
+- OCR-SAM (SAM for Text, Text Removal and Text Inpainting) [Repo](https://github.com/yeungchenwa/OCR-SAM)
+
+![image](https://user-images.githubusercontent.com/65257938/231627848-0bc2b802-d273-4dce-875f-719db28fc7f2.png)
+
+![image](https://user-images.githubusercontent.com/65257938/231628050-286362f5-4bf9-40b5-9bfb-a3610c40eba9.png)
+
+
+- finetune-anything (fine-tuning of SAM ) [Repo]()
+
+![image](https://user-images.githubusercontent.com/65257938/231627697-4d74bab5-12ea-47b5-afd6-e03635e7ebba.png)
+
+
+- grounded-segment-anything-colab [Repo](https://github.com/camenduru/grounded-segment-anything-colab)
+
+![image](https://user-images.githubusercontent.com/65257938/231627733-cc0787ec-d64b-46a2-b2d1-19b6c2c196e9.png)
+
 
 ## Relevant Repos
 
