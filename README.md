@@ -149,6 +149,12 @@ The repository provides code for running inference with the SegmentAnything Mode
 ![image](https://user-images.githubusercontent.com/65257938/231750419-7194770c-30a2-417d-8467-3901c8a8f3e0.png)
 
 
+- LIME-SAM (SAM +  Explainable Artificial Intelligence) [Repo](https://github.com/jaydeep-work/LIME-SAM)
+
+![image](https://user-images.githubusercontent.com/65257938/231751670-474c8e4f-15f3-4e34-bc12-e28052b3c717.png)
+
+
+
 ## Relevant Repos
 
 - Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
