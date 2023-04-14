@@ -161,6 +161,12 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/231974436-64a1b6f2-70d0-4cc0-a963-67a4ad39def8.png)
 
+- open-tracking (sam + tracking) [Repo](https://github.com/open-mmlab/playground/#-open-tracking)
+
+![image](https://user-images.githubusercontent.com/65257938/231975263-4d4e33f8-1429-437a-9325-70cf4acc8731.png)
+
+
+
 
 ## Relevant Repos
 
