@@ -191,7 +191,7 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/231468301-ca80309b-1c01-474b-9631-c8297784d611.png)
 
-
+- image2text powered by CLIP and BLIP [Repo](https://github.com/pharmapsychotic/clip-interrogator)
 
 
 
