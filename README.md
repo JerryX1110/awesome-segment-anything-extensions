@@ -157,6 +157,9 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/231751670-474c8e4f-15f3-4e34-bc12-e28052b3c717.png)
 
+- sam-with-mmdet (SAM+MMDetection) [Repo](https://github.com/liuyanyi/sam-with-mmdet)
+
+![image](https://user-images.githubusercontent.com/65257938/231974436-64a1b6f2-70d0-4cc0-a963-67a4ad39def8.png)
 
 
 ## Relevant Repos
