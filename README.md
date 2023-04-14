@@ -20,10 +20,6 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
-- Roboflow Annotate Smart Polygon is a free, automated image annotation tool powered by Segment-Anything [Blog](https://blog.roboflow.com/label-data-segment-anything-model-sam/), [App](https://app.roboflow.com)
-
-https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82a4-9b2a91b02d0a.mp4
-
 - Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything)
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
@@ -31,6 +27,16 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 - GroundedSAM-zero-shot-anomaly-detection (SAM + anomaly detection)[Repo](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
+
+- SEEM: Segment Everything Everywhere All at Once [Repo](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+
+![image](https://user-images.githubusercontent.com/65257938/232041952-4d480b93-56ce-401c-954a-d37e1f72cd5a.png)
+
+
+- Roboflow Annotate Smart Polygon is a free, automated image annotation tool powered by Segment-Anything [Blog](https://blog.roboflow.com/label-data-segment-anything-model-sam/), [App](https://app.roboflow.com)
+
+https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82a4-9b2a91b02d0a.mp4
+
 
 - Image Editing Anything (SAM + CLIP +StableDiffusion) [Repo](https://github.com/feizc/IEA)
 
@@ -165,6 +171,9 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/231975263-4d4e33f8-1429-437a-9325-70cf4acc8731.png)
 
+- 3D-Box via Segment Anything (sam for 3D Detection) [Repo](https://github.com/dvlab-research/3D-Box-Segment-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/232042932-f9f9ff65-e2d1-4bbf-92ec-1e40ceb813bf.png)
 
 
 
