@@ -175,6 +175,11 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/232042932-f9f9ff65-e2d1-4bbf-92ec-1e40ceb813bf.png)
 
+- Anything-3D (Segment-Anything + 3D. Let's lift the anything to 3D) [Repo](https://github.com/Anything-of-anything/Anything-3D)
+
+![image](https://user-images.githubusercontent.com/65257938/232356082-25300903-299c-451f-aeb8-902e08ed44ed.png)
+
+![image](https://user-images.githubusercontent.com/65257938/232356106-b6036694-c734-4f0d-8faf-434f6b2f773d.png)
 
 
 ## Relevant Repos
