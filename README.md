@@ -181,6 +181,15 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/232356106-b6036694-c734-4f0d-8faf-434f6b2f773d.png)
 
+- Transfer-Any-Style (SAM for style transfer) [Repo](https://github.com/Anything-of-anything/Transfer-Any-Style)
+
+![image](https://user-images.githubusercontent.com/65257938/232356280-d16793b5-f6d7-4ec1-b77a-ef3e0791454c.png)
+
+
+- Paint-anything (sam for drawing) [Repo](https://github.com/Huage001/Paint-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/232356394-7727d33a-8d1f-4b92-9c5e-4ef6c6663d26.png)
+
 
 ## Relevant Repos
 
