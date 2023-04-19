@@ -194,7 +194,7 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/232747440-cce172e1-c7bf-4ecc-9e60-b04f072af16c.png)
 
-
+- SAM-medical (SAM for medocal image segmentation)[Repo](https://github.com/hitachinsk/SAM-Medical)
 
 ## Relevant Repos
 
