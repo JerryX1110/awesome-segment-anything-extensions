@@ -32,6 +32,10 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
+- Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/233364976-ce36b0bf-3886-47db-a4ec-f97520da6523.png)
+
 
 - SEEM: Segment Everything Everywhere All at Once [Repo](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
