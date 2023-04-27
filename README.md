@@ -209,6 +209,14 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://user-images.githubusercontent.com/65257938/234733689-b4adcf38-b991-4c18-b769-f59148815e65.png)
 
+- Count Anything (SAM for counting) [Repo](https://github.com/ylqi/Count-Anything)
+
+![image](https://user-images.githubusercontent.com/65257938/234733985-7c596be4-deb7-4531-a2cb-6077d03b7157.png)
+
+- ShowAnything (SAM + SD for editing) [Repo](https://github.com/showlab/ShowAnything)
+
+![image](https://user-images.githubusercontent.com/65257938/234734142-06a58f22-3823-4027-a34a-2b25c7e7a9d9.png)
+
 
 ## Relevant Repos
 
