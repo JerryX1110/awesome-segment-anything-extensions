@@ -219,6 +219,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 - MedSAM (SAM for medicine, training tutorial) [Repo](https://github.com/bowang-lab/MedSAM#model-training-video-tutorial)
 
+- Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) [Repo](https://github.com/ZrrSkywalker/Personalize-SAM)
+![image](https://user-images.githubusercontent.com/65257938/236376431-cf9d1c17-c37b-4742-9660-3abcb9f606ef.png)
+
+
 ## Relevant Repos
 
 - Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
