@@ -226,6 +226,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 - Segment Any Moving Object with Moving Ego Vehicle (SAM for multi-object segmentation)  [arXiv](https://arxiv.org/pdf/2305.00126.pdf)
 ![image](https://user-images.githubusercontent.com/65257938/236713942-7c0a8f38-7269-4c5b-9cdf-ae59ac5b95c2.png)
 
+- Customized Segment Anything Model for Medical Image Segmentation (SAM+LoRA fot Medical Segmentation) [ArXiv](https://arxiv.org/pdf/2304.13785.pdf)
+
+![image](https://user-images.githubusercontent.com/65257938/236968547-0b4615dc-5fe0-46b0-9c66-a9bf97cee5a8.png)
+
 
 ## Relevant Repos
 
