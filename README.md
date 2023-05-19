@@ -24,12 +24,20 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
-- GroundedSAM-zero-shot-anomaly-detection (SAM + anomaly detection)[Repo](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
+- Segment-Any-Anomaly + (SAM + hybrid prompt regularization  for zero-shot anomaly detection)[ArXiV](https://arxiv.org/abs/2305.10724)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/88ef3796-ebe3-44e6-9697-0c37d463f769)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/320a7fb4-cb2b-447c-8013-b4a4610b0b02)
+
+
+- Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly)
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
+
 - Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) [ArXiv](https://arxiv.org/abs/2305.06558)
-- 
+ 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
 - Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything)
