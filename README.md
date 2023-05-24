@@ -239,6 +239,16 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 ![image](https://user-images.githubusercontent.com/65257938/236968547-0b4615dc-5fe0-46b0-9c66-a9bf97cee5a8.png)
 
 
+- Instruct to Act (SAM+OpenCLIP for robotics application) [Repo](https://github.com/OpenGVLab/Instruct2Act)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/10a80ded-4799-48af-947b-e09f52e5353b)
+
+- finetune-anything (SAM finetuning) [Repo](https://github.com/ziqi-jin/finetune-anything)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/ca0cd7a7-8fd8-40c4-8388-e2f099f3df3a)
+
+
+
 ## Relevant Repos
 
 - Towards Segmenting Anything That Moves [Repo](https://github.com/achalddave/segment-any-moving)
