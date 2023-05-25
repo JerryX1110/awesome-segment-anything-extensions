@@ -247,6 +247,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/ca0cd7a7-8fd8-40c4-8388-e2f099f3df3a)
 
+- SAMScore (semantic Structural Similarity Metric for Image Translation Evaluation) [ArXiv](https://arxiv.org/pdf/2305.15367.pdf)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/5e7ecb0f-aee9-4982-9994-b0ad6637c4c3)
+
 
 
 ## Relevant Repos
