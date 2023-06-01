@@ -251,6 +251,9 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/5e7ecb0f-aee9-4982-9994-b0ad6637c4c3)
 
+- Detect-AnyShadow (SAM for shadow det) [Repo](https://github.com/harrytea/Detect-AnyShadow)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/7b004296-1e5e-4757-b5d4-a1b018a1ce78)
 
 
 ## Relevant Repos
