@@ -255,6 +255,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/7b004296-1e5e-4757-b5d4-a1b018a1ce78)
 
+- SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) [Repo](https://github.com/Jun-CEN/SegmentAnyRGBD)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/9654dc99-faaa-47c9-b0ab-6ff113ce4968)
+
 
 ## Relevant Repos
 
