@@ -259,6 +259,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/9654dc99-faaa-47c9-b0ab-6ff113ce4968)
 
+- SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) [Repo](https://github.com/SysCV/SAM-HQ)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/26e015f7-b3b7-4bb4-9915-be8be86361fb)
+
 
 ## Relevant Repos
 
