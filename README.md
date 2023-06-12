@@ -263,6 +263,10 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/26e015f7-b3b7-4bb4-9915-be8be86361fb)
 
+- Calib-anything (SAM for calibration optimization) [Repo](https://github.com/OpenCalib/CalibAnything)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/f0495544-8e1c-47ad-868a-eb26cf6b2a20)
+
 
 ## Relevant Repos
 
