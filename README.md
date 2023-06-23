@@ -30,6 +30,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/320a7fb4-cb2b-447c-8013-b4a4610b0b02)
 
+- Segment Any Point Cloud Sequences (SAM for self-supervised learning on large-scale 3D point clouds) [Repo](https://github.com/youquanl/Segment-Any-Point-Cloud) [ArXiv](https://arxiv.org/abs/2306.09347) [Page](https://ldkong.com/Seal)
+
+  ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/01b9f025-7a40-4b37-ba60-45e90f27c68f)
+
+
 
 - Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly)
 
