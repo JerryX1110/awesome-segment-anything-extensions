@@ -1,4 +1,4 @@
-#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/f242b120-5555-42d7-9c3a-afce21a57433)#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
 
 
 Segment-anything related awesome extensions/projects/repos/applications.
@@ -92,6 +92,16 @@ https://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82
 - sam-mmrotate(use SAM for generating rotated bounding boxes with MMRotate) [Repo](https://github.com/Li-Qingyun/sam-mmrotate)
  
 ![image](https://user-images.githubusercontent.com/65257938/230820243-c301554b-bccb-477f-aa28-f69865f6afeb.png)
+
+- Fast-SAM (fast segment-anything) [repo](https://github.com/CASIA-IVA-Lab/FastSAM)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
+
+- Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM)
+
+![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/4731bec8-fd46-4ccf-9286-645efc4f0546)
+
+
 
 - Disappear(use SAM for foreground removal) [Repo](https://github.com/jinfagang/Disappear)
  
