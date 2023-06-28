@@ -1,4 +1,4 @@
-![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/f242b120-5555-42d7-9c3a-afce21a57433)#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
+#  Awesome-segment-anything-extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
 
 
 Segment-anything related awesome extensions/projects/repos/applications.
